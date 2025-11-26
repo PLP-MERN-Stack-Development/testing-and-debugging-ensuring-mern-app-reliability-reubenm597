@@ -18,6 +18,9 @@ A comprehensive MERN stack application with complete testing setup including uni
 - **Error Handling**: Global error handling and React error boundaries
 - **Logging**: Winston logger with structured logging
 
+
+
+
 ```
 ## 📁 Project Structure
 mern-testing/
